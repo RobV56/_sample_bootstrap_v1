@@ -1,0 +1,29 @@
+# humanstxt.org/
+
+ (      (                 *                                                   
+ )\ )   )\ )            (  `                  )           )                   
+(()/(  (()/( (          )\))(      )  (    ( /(    (   ( /( (          (  (   
+ /(_))  /(_)))(    (   ((_)()\  ( /(  )(   )\())  ))\  )\()))\   (     )\))(  
+(_))_  (_)) (()\   )\  (_()((_) )(_))(()\ ((_)\  /((_)(_))/((_)  )\ ) ((_))\  
+ |   \ | _ \ ((_) ((_) |  \/  |((_)_  ((_)| |(_)(_))  | |_  (_) _(_/(  (()(_) 
+ | |) ||  _/| '_|/ _ \ | |\/| |/ _` || '_|| / / / -_) |  _| | || ' \))/ _` |  
+ |___/ |_|  |_|  \___/ |_|  |_|\__,_||_|  |_\_\ \___|  \__| |_||_||_| \__, |  
+                                                                      |___/  
+  307 East St, Rochester, MI 48307
+  http://dpromarketing.com
+
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Rob VanDoorne - Lead Developer - @LlamaBeThyName
+
+# THANKS
+
+    <name>
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    Normalize.css, jQuery, Modernizr
+    PHP, Bootstrap 3.3.4

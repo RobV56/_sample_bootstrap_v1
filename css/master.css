@@ -1,0 +1,30 @@
+/* Don't print link hrefs */
+@media print {
+    a[href]:after {
+        content: none
+    }
+}
+
+label.required:after {
+    content:" *";
+    color:red;
+}
+@media print {
+
+    .btn-primary {
+        background-color: #428bca !important;
+    }
+    .btn-success {
+        background-color: #5cb85c !important;
+    }
+    .btn-info {
+        background-color: #5bc0de !important;
+    }
+    .btn-warning {
+        background-color: #f0ad4e !important;
+    }
+    .btn-danger {
+        background-color: #d9534f !important;
+    }
+
+}
