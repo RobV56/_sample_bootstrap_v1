@@ -20,7 +20,7 @@
 
 # THANKS
 
-    <name>
+    Tim Horton's Coffee 
 
 # TECHNOLOGY COLOPHON
 
